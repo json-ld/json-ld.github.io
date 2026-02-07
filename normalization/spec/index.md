@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://json-ld.github.io/rdf-dataset-canonicalization/spec/"
+redirect_to: "https://www.w3.org/TR/rdf-canon/"
 ---
